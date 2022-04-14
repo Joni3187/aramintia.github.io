@@ -1,10 +1,10 @@
 .card{
-    height: 700px;
-    margin-bottom: 80px;
+    height: 600px;
+    margin: 35px 25px 80px 25px;
 }
 
 .crdimg{
-    height: 500px;
+    height: 400px;
 }
 
 .topcon{
